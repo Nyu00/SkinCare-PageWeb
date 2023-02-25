@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    transition: 0.1s all;
+}
+
+ul { 
+    list-style: none;
+
+}
+
+a { 
+    text-decoration: none;
+}
+
+.bottom{
+    font-family: 'Roboto', sans-serif;
+}
