@@ -423,6 +423,7 @@ main .content time{
     list-style-type: none;
 }
 .options-advanced a{ 
+    text-shadow: 2px 2px rgb(0 0 0 / 40%);
     color: white;
     
 }
