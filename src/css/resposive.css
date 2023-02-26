@@ -1,0 +1,34 @@
+@media (max-width:914px){
+
+
+
+    /* Momentarily*/
+    .background_video {
+        display: none;
+    }
+
+    .container{
+        justify-content: center;
+        flex-wrap: wrap ;
+        height: auto;
+        gap: 30px;
+    }
+
+    .container .imagen-titulo{
+        max-width: 50%;
+        margin-bottom: 25px;
+    }
+    .container .informations{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .container .texto{
+        color: white;
+        text-align: center;
+    }
+    .container .boton{
+        background-color: #263238;
+    }
+
+}
