@@ -1,34 +1,37 @@
-@media (max-width:914px){
+@media (max-width:420px){
 
-
-
-    /* Momentarily*/
-    .background_video {
+    main .container .girl-face{
         display: none;
     }
 
     .container{
-        justify-content: center;
-        flex-wrap: wrap ;
-        height: auto;
-        gap: 30px;
+        margin: 0px 0px 0px 0px;
     }
 
-    .container .imagen-titulo{
-        max-width: 50%;
-        margin-bottom: 25px;
+    .menu{
+        display: none;
     }
-    .container .informations{
-        display: flex;
+
+    .orangesquare{
+        padding-left: 100vw;
+        font-display: center;
+        z-index: 2;
+        color: aliceblue;
+        width:0;
+        height:0%;
+        background-color: #e56121;
+        justify-items: center;
+        text-align:center;
         align-items: center;
-        flex-direction: column;
+    
     }
-    .container .texto{
-        color: white;
-        text-align: center;
+    
+    *{
+        align-items: center;
+        justify-content: center;  
+        text-align: center; 
     }
-    .container .boton{
-        background-color: #263238;
-    }
+
+
 
 }

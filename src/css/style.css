@@ -147,7 +147,6 @@
 }
 
 main .container {
-    background-color: aqua;
     height: 100vh;
     top:80px;
     max-width: 1920px;
@@ -172,7 +171,7 @@ main .container .orangesquare{
     font-display: center;
     z-index: 2;
     color: aliceblue;
-    width: 33%;
+    width:33%;
     height:100%;
     background-color: #e56121;
     justify-items: center;
