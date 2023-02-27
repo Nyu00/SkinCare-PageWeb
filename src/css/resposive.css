@@ -22,7 +22,7 @@
         justify-items: center;
         text-align:center;
         align-items: center;
-        z-index: 0;
+        z-index: 2;
     
     }
     .orangesquare .text1{
